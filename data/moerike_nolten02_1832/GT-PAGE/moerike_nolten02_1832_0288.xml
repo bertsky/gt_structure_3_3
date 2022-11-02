@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:19:50</Created>
+	<LastChange>2019-03-12T14:14:20</LastChange></Metadata>
+	<Page imageFilename="moerike_nolten02_1832_0288.jpg" imageWidth="1563" imageHeight="2304" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="region_1">
+	<Coords points="777,879 1347,879 1347,957 777,957"/></SeparatorRegion>
+	<TextRegion id="region_2" custom="#poem_lg" type="paragraph">
+	<Coords points="639,960 1500,960 1500,1155 639,1155"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#poem_lg" type="paragraph">
+	<Coords points="639,1164 1485,1164 1485,1356 639,1356"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#poem_lg" type="paragraph">
+	<Coords points="639,1368 1431,1368 1431,1512 639,1512"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#poem_lg" type="paragraph">
+	<Coords points="660,1524 1473,1524 1473,1686 660,1686"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" custom="#poem_lg" type="paragraph">
+	<Coords points="663,1746 1500,1746 1500,1947 663,1947"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1094,317 1094,260 1017,260 1017,317"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1211,1725 1211,1702 962,1702 962,1725"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1560,337 1560,573 1524,573 1524,574 1452,574 1452,575 1381,575 1381,576 1310,576 1310,577 1238,577 1238,578 1167,578 1167,579 1095,579 1095,580 1024,580 1024,581 952,581 952,582 881,582 881,583 810,583 810,584 738,584 738,585 667,585 667,586 595,586 595,587 560,587 560,337"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1560,575 1560,865 560,865 560,589 596,589 596,588 668,588 668,587 739,587 739,586 811,586 811,585 882,585 882,584 953,584 953,583 1025,583 1025,582 1096,582 1096,581 1168,581 1168,580 1239,580 1239,579 1311,579 1311,578 1382,578 1382,577 1453,577 1453,576 1525,576 1525,575"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

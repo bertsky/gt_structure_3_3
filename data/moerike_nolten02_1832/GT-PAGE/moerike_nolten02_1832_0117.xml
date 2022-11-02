@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:19:50</Created>
+	<LastChange>2019-03-12T14:18:31</LastChange></Metadata>
+	<Page imageFilename="moerike_nolten02_1832_0117.jpg" imageWidth="1563" imageHeight="2304" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#poem_lg" type="paragraph">
+	<Coords points="138,1590 720,1590 720,1794 138,1794"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#poem_lg" type="paragraph">
+	<Coords points="138,1809 780,1809 780,1914 138,1914"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="517,285 517,225 437,225 437,285"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="982,314 982,827 941,827 941,828 859,828 859,829 777,829 777,830 695,830 695,831 613,831 613,832 531,832 531,833 450,833 450,834 368,834 368,835 286,835 286,836 204,836 204,837 122,837 122,838 40,838 40,839 0,839 0,314"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="982,829 982,1580 0,1580 0,841 41,841 41,840 123,840 123,839 205,839 205,838 287,838 287,837 369,837 369,836 451,836 451,835 532,835 532,834 614,834 614,833 696,833 696,832 778,832 778,831 860,831 860,830 942,830 942,829"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

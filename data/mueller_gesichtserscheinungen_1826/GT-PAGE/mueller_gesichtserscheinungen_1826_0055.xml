@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:20:32</Created>
+	<LastChange>2019-03-05T14:49:04</LastChange></Metadata>
+	<Page imageFilename="mueller_gesichtserscheinungen_1826_0055.jpg" imageWidth="1841" imageHeight="2622" type="content">
+	<PrintSpace>
+	<Coords points="1429,2532 1429,209 70,209 70,2532"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="region_1">
+	<Coords points="408,765 1002,765 1002,1407 408,1407"/></GraphicRegion>
+	<TextRegion id="region_2" type="caption">
+	<Coords points="153,1425 1284,1425 1284,1566 153,1566"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="854,1787 854,1735 561,1735 561,1787"/></SeparatorRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1293,716 1293,367 138,367 138,716"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords points="735,377 735,309 654,309 654,377"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

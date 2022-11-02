@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:19:16</Created>
+	<LastChange>2019-03-05T13:34:59</LastChange></Metadata>
+	<Page imageFilename="marx_kapital0302_1894_0258.jpg" imageWidth="2017" imageHeight="2831" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="9,696 1317,696 1317,1182 9,1182"/></TableRegion>
+	<TableRegion id="region_2">
+	<Coords points="6,1254 1332,1254 1332,1737 6,1737"/></TableRegion>
+	<TableRegion id="region_3">
+	<Coords points="6,1812 1314,1812 1314,2298 6,2298"/></TableRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="682,368 682,310 589,310 589,368"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1306,610 1306,396 37,396 37,610"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords points="824,689 824,610 482,610 482,689"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords points="824,1258 824,1182 513,1182 513,1258"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords points="796,1810 796,1751 534,1751 534,1810"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1313,2468 1313,2296 37,2296 37,2468"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

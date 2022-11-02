@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:20:29</Created>
+	<LastChange>2019-03-12T14:05:11</LastChange></Metadata>
+	<Page imageFilename="mueller_festigkeitslehre_1886_0024.jpg" imageWidth="1840" imageHeight="2840" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="region_3" index="5"/>
+	<RegionRefIndexed regionRef="region_4" index="6"/>
+	<RegionRefIndexed regionRef="region_5" index="7"/>
+	<RegionRefIndexed regionRef="region_6" index="8"/>
+	<RegionRefIndexed regionRef="region_7" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="843,225 1140,225 1140,297 843,297"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<MathsRegion id="region_3">
+	<Coords points="408,303 1566,303 1566,459 408,459"/></MathsRegion>
+	<GraphicRegion id="region_4">
+	<Coords points="339,1419 1302,1419 1302,1995 339,1995"/></GraphicRegion>
+	<TextRegion id="region_5" type="caption">
+	<Coords points="714,2001 924,2001 924,2067 714,2067"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<MathsRegion id="region_6">
+	<Coords points="756,2193 1194,2193 1194,2253 756,2253"/></MathsRegion>
+	<MathsRegion id="region_7">
+	<Coords points="804,2289 1146,2289 1146,2391 804,2391"/></MathsRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1668,297 1668,492 1611,492 1611,493 1497,493 1497,494 1383,494 1383,495 1269,495 1269,496 1155,496 1155,497 1041,497 1041,498 927,498 927,499 813,499 813,500 699,500 699,501 585,501 585,502 471,502 471,503 357,503 357,504 243,504 243,505 186,505 186,297"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1668,1204 1668,2412 186,2412 186,1214 261,1214 261,1213 409,1213 409,1212 557,1212 557,1211 705,1211 705,1210 853,1210 853,1209 1002,1209 1002,1208 1150,1208 1150,1207 1298,1207 1298,1206 1446,1206 1446,1205 1594,1205 1594,1204"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1668,494 1668,805 1600,805 1600,806 1465,806 1465,807 1331,807 1331,808 1196,808 1196,809 1061,809 1061,810 927,810 927,811 792,811 792,812 657,812 657,813 522,813 522,814 388,814 388,815 253,815 253,816 186,816 186,507 244,507 244,506 358,506 358,505 472,505 472,504 586,504 586,503 700,503 700,502 814,502 814,501 928,501 928,500 1042,500 1042,499 1156,499 1156,498 1270,498 1270,497 1384,497 1384,496 1498,496 1498,495 1612,495 1612,494"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1668,807 1668,1202 1593,1202 1593,1203 1445,1203 1445,1204 1297,1204 1297,1205 1149,1205 1149,1206 1001,1206 1001,1207 852,1207 852,1208 704,1208 704,1209 556,1209 556,1210 408,1210 408,1211 260,1211 260,1212 186,1212 186,818 254,818 254,817 389,817 389,816 523,816 523,815 658,815 658,814 793,814 793,813 928,813 928,812 1062,812 1062,811 1197,811 1197,810 1332,810 1332,809 1466,809 1466,808 1601,808 1601,807"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

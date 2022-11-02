@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:20:41</Created>
+	<LastChange>2019-03-05T14:59:50</LastChange></Metadata>
+	<Page imageFilename="mueller_staatskunst02_1809_0302.jpg" imageWidth="1284" imageHeight="2256" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level3" type="heading">
+	<Coords points="477,522 1137,522 1137,597 477,597"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="372,612 1245,612 1245,732 372,732"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="844,266 844,213 750,213 750,266"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="1230,341 1230,280 394,280 394,341"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1008,794 1008,763 575,763 575,794"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1222,1794 1222,833 366,833 366,1794"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

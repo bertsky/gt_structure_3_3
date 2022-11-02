@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:19:43</Created>
+	<LastChange>2019-03-05T13:43:15</LastChange></Metadata>
+	<Page imageFilename="michelis_reiseschule_1869_0298.jpg" imageWidth="1483" imageHeight="2081" type="content">
+	<PrintSpace>
+	<Coords points="1471,2000 1471,100 284,100 284,2000"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/>
+	<RegionRefIndexed regionRef="region_5" index="3"/>
+	<RegionRefIndexed regionRef="region_6" index="4"/>
+	<RegionRefIndexed regionRef="region_7" index="5"/>
+	<RegionRefIndexed regionRef="region_8" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="362,190 463,190 463,254 362,254"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="header">
+	<Coords points="827,202 971,202 971,256 827,256"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#column" type="paragraph">
+	<Coords points="362,277 716,277 716,961 362,961"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#column" type="paragraph">
+	<Coords points="1062,282 1434,282 1434,961 1062,961"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" custom="#column" type="paragraph">
+	<Coords points="717,287 1063,287 1063,954 717,954"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_7">
+	<Coords points="767,1142 1031,1142 1031,1172 767,1172"/></SeparatorRegion>
+	<TextRegion id="region_8" type="paragraph">
+	<Coords points="702,1780 1073,1780 1073,1844 702,1844"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="r0" type="stamp">
+	<Coords points="864,1212 861,1223 861,1282 864,1300 871,1315 879,1333 884,1343 887,1353 894,1361 902,1369 915,1371 925,1374 951,1374 961,1371 971,1369 984,1364 994,1356 1000,1346 1002,1335 1005,1323 1005,1310 1007,1292 1010,1282 1010,1258 1002,1251 994,1241 982,1230 974,1223 964,1215 951,1207 943,1197 933,1189 920,1187 905,1184 879,1184 869,1187 858,1194 853,1207 861,1220"/></GraphicRegion></Page></PcGts>

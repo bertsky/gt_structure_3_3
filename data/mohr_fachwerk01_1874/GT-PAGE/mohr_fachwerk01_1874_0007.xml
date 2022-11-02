@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:19:56</Created>
+	<LastChange>2019-03-05T13:52:12</LastChange></Metadata>
+	<Page imageFilename="mohr_fachwerk01_1874_0007.jpg" imageWidth="3321" imageHeight="4326" type="content">
+	<PrintSpace>
+	<Coords points="63,200 63,4252 3031,4252 3031,200"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="region_2">
+	<Coords points="888,3330 2142,3330 2142,3393 888,3393"/></SeparatorRegion>
+	<NoiseRegion id="r0">
+	<Coords points="2105,568 2105,342 1184,342 1184,568"/></NoiseRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="2763,1689 2763,715 436,715 436,1689"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1710,1784 1710,1689 1326,1689 1326,1784"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="1673,1957 1673,1857 1363,1857 1363,1957"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1836,1863 1836,1778 1178,1778 1178,1863"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="2305,2289 2305,1942 794,1942 794,2289"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="1789,2352 1789,2284 1294,2284 1294,2352"/></SeparatorRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="2263,2663 2263,2394 868,2394 868,2663"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="r8">
+	<Coords points="1857,3200 1857,2915 1200,2915 1200,3200"/></GraphicRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1884,3689 1884,3447 1115,3447 1115,3689"/>
+	<SeparatorRegion id="r10">
+	<Coords points="1557,3615 1557,3589 1463,3589 1463,3615"/></SeparatorRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="r11" type="stamp">
+	<Coords points="1784,2763 1747,2757 1715,2757 1694,2752 1678,2752 1657,2747 1642,2747 1636,2736 1621,2731 1605,2726 1589,2715 1568,2710 1552,2700 1515,2700 1478,2694 1442,2689 1363,2689 1347,2700 1326,2731 1310,2763 1310,2831 1315,2852 1326,2863 1331,2873 1347,2884 1400,2894 1468,2915 1536,2926 1568,2936 1584,2936 1626,2931 1684,2915 1726,2915 1736,2910 1752,2905 1773,2900 1800,2894 1810,2884 1815,2873 1815,2857 1821,2831 1815,2821 1805,2815 1789,2794 1778,2784 1768,2773"/></GraphicRegion></Page></PcGts>

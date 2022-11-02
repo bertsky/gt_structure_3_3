@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:20:29</Created>
+	<LastChange>2019-03-12T14:06:59</LastChange></Metadata>
+	<Page imageFilename="mueller_festigkeitslehre_1886_0013.jpg" imageWidth="1935" imageHeight="2892" type="content">
+	<PrintSpace>
+	<Coords points="1767,2853 1767,125 71,125 71,2853"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="region_4" index="4"/>
+	<RegionRefIndexed regionRef="region_5" index="5"/>
+	<RegionRefIndexed regionRef="region_6" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level1" type="heading">
+	<Coords points="516,735 1236,735 1236,972 516,972"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#heading_level2" type="heading">
+	<Coords points="444,1005 1287,1005 1287,1137 444,1137"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_4">
+	<Coords points="552,1863 1470,1863 1470,2256 552,2256"/></GraphicRegion>
+	<TextRegion id="region_5" type="caption">
+	<Coords points="954,2265 1074,2265 1074,2313 954,2313"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="signature-mark">
+	<Coords points="261,2472 1347,2472 1347,2538 261,2538"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1581,1143 1581,1638 1481,1638 1481,1639 1282,1639 1282,1640 1083,1640 1083,1641 885,1641 885,1642 686,1642 686,1643 487,1643 487,1644 288,1644 288,1645 189,1645 189,1143"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1581,1640 1581,2472 189,2472 189,1647 289,1647 289,1646 488,1646 488,1645 687,1645 687,1644 886,1644 886,1643 1084,1643 1084,1642 1283,1642 1283,1641 1482,1641 1482,1640"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

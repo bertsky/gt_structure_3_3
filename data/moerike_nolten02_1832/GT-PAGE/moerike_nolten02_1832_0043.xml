@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:19:50</Created>
+	<LastChange>2019-03-05T13:44:17</LastChange></Metadata>
+	<Page imageFilename="moerike_nolten02_1832_0043.jpg" imageWidth="1563" imageHeight="2304" type="content">
+	<PrintSpace>
+	<Coords points="25,205 25,2157 1125,2157 1125,205"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="region_1">
+	<Coords points="327,1011 708,1011 708,1056 327,1056"/></SeparatorRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="557,302 557,231 471,231 471,302"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1020,1011 1020,322 40,322 40,1011"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1008,1948 1008,1088 34,1088 34,1948"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

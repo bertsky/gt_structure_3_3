@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:19:50</Created>
+	<LastChange>2019-03-05T13:43:45</LastChange></Metadata>
+	<Page imageFilename="moerike_nolten02_1832_0009.jpg" imageWidth="1563" imageHeight="2304" type="content">
+	<PrintSpace>
+	<Coords points="1108,2171 1108,228 0,228 0,2171"/></PrintSpace>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="991,1991 991,640 31,640 31,1991"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="1011,357 1011,288 37,288 37,357"/></SeparatorRegion></Page></PcGts>

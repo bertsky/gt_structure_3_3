@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:19:54</Created>
+	<LastChange>2019-03-05T13:50:29</LastChange></Metadata>
+	<Page imageFilename="mohr_eisenkonstruktionen_1868_0007.jpg" imageWidth="3332" imageHeight="4404" type="content">
+	<PrintSpace>
+	<Coords points="3038,4255 3038,233 88,233 88,4255"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="region_2">
+	<Coords points="815,3195 2199,3195 2199,3260 815,3260"/></SeparatorRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="1688,1622 1688,1611 1405,1611 1405,1622"/></SeparatorRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="1683,1816 1683,1772 1383,1772 1383,1816"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1655,2183 1655,2127 1450,2127 1450,2183"/></SeparatorRegion>
+	<GraphicRegion id="r3">
+	<Coords points="1877,3066 1877,2738 1144,2738 1144,3066"/></GraphicRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1866,3561 1866,3300 1183,3300 1183,3561"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="2155,2566 2155,2216 900,2216 900,2566"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="2227,2083 2227,1844 822,1844 822,2083"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1838,1755 1838,1666 1200,1666 1200,1755"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="2688,1566 2688,555 366,555 366,1566"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

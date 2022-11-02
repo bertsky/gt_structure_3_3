@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:19:33</Created>
+	<LastChange>2019-03-05T13:42:26</LastChange></Metadata>
+	<Page imageFilename="menger_historismus_1884_0104.jpg" imageWidth="2016" imageHeight="2748" type="content">
+	<PrintSpace>
+	<Coords points="2010,2553 2010,140 443,140 443,2553"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#back_paragraph" type="other">
+	<Coords points="606,935 1875,935 1875,2343 606,2343"/>
+	<TextRegion id="r1" type="heading">
+	<Coords points="1420,916 1420,820 1060,820 1060,916"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_2">
+	<Coords points="1093,1816 1392,1816 1392,1871 1093,1871"/></SeparatorRegion>
+	<NoiseRegion id="r0">
+	<Coords points="1876,643 1876,86 1646,86 1646,643"/></NoiseRegion></Page></PcGts>

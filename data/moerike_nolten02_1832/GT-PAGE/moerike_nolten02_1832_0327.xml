@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:19:50</Created>
+	<LastChange>2019-03-05T13:48:53</LastChange></Metadata>
+	<Page imageFilename="moerike_nolten02_1832_0327.jpg" imageWidth="1563" imageHeight="2304" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/>
+	<RegionRefIndexed regionRef="region_5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" custom="#heading_level1" type="heading">
+	<Coords points="225,462 807,462 807,546 225,546"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#heading_level2" type="heading">
+	<Coords points="285,621 735,621 735,684 285,684"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#list_item" type="paragraph">
+	<Coords points="18,687 966,687 966,1104 18,1104"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#heading_level2" type="heading">
+	<Coords points="270,1185 741,1185 741,1248 270,1248"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="685,1694 685,1654 325,1654 325,1694"/></SeparatorRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="637,1151 637,1122 405,1122 405,1151"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="582,588 582,562 451,562 451,588"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="962,1571 962,1257 28,1257 28,1571"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

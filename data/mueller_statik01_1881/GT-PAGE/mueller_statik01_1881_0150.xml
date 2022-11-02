@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:20:44</Created>
+	<LastChange>2019-03-12T14:02:30</LastChange></Metadata>
+	<Page imageFilename="mueller_statik01_1881_0150.jpg" imageWidth="1888" imageHeight="2864" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="774,345 1407,345 1407,420 774,420"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TableRegion id="region_2">
+	<Coords points="414,438 1767,438 1767,1263 414,1263"/></TableRegion>
+	<TextRegion id="region_3" custom="#heading_level2" type="heading">
+	<Coords points="855,1272 1305,1272 1305,1341 855,1341"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1157,321 1157,264 1042,264 1042,321"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1517,1514 1517,1360 492,1360 492,1514"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1221,1685 1221,1635 878,1635 878,1685"/></SeparatorRegion>
+	<TextRegion id="r4" custom="#back_paragraph" type="heading">
+	<Coords points="1773,1743 1773,1877 1670,1877 1670,1878 1464,1878 1464,1879 1258,1879 1258,1880 1053,1880 1053,1881 847,1881 847,1882 641,1882 641,1883 435,1883 435,1884 333,1884 333,1743"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" custom="#back_paragraph" type="other">
+	<Coords points="1773,1879 1773,2466 333,2466 333,1886 436,1886 436,1885 642,1885 642,1884 848,1884 848,1883 1054,1883 1054,1882 1259,1882 1259,1881 1465,1881 1465,1880 1671,1880 1671,1879"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

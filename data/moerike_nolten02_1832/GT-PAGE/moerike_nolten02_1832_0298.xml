@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:19:50</Created>
+	<LastChange>2019-03-12T14:13:44</LastChange></Metadata>
+	<Page imageFilename="moerike_nolten02_1832_0298.jpg" imageWidth="1563" imageHeight="2304" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#poem_lg" type="paragraph">
+	<Coords points="717,945 1197,945 1197,1095 717,1095"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#poem_lg" type="paragraph">
+	<Coords points="717,1104 1395,1104 1395,1776 717,1776"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#poem_lg" type="paragraph">
+	<Coords points="717,1785 1281,1785 1281,1977 717,1977"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1102,328 1102,282 1020,282 1020,328"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1548,360 1548,710 1502,710 1502,711 1412,711 1412,712 1322,712 1322,713 1231,713 1231,714 1141,714 1141,715 1051,715 1051,716 960,716 960,717 870,717 870,718 779,718 779,719 689,719 689,720 599,720 599,721 554,721 554,360"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1548,712 1548,942 554,942 554,723 600,723 600,722 690,722 690,721 780,721 780,720 871,720 871,719 961,719 961,718 1052,718 1052,717 1142,717 1142,716 1232,716 1232,715 1323,715 1323,714 1413,714 1413,713 1503,713 1503,712"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

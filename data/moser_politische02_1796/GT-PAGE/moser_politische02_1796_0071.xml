@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:20:27</Created>
+	<LastChange>2019-03-12T14:11:02</LastChange></Metadata>
+	<Page imageFilename="moser_politische02_1796_0071.jpg" imageWidth="1753" imageHeight="2683" type="content">
+	<PrintSpace>
+	<Coords points="1286,2543 1286,396 76,396 76,2543"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote">
+	<Coords points="135,1905 1134,1905 1134,2214 135,2214"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="159,2217 810,2217 810,2289 159,2289"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1133,573 1133,530 1033,530 1033,573"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1126,1916 1126,1866 146,1866 146,1916"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1126,573 1126,909 1004,909 1004,908 758,908 758,907 512,907 512,906 266,906 266,905 143,905 143,573"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="265,907 265,908 511,908 511,909 757,909 757,910 1003,910 1003,911 1126,911 1126,1850 143,1850 143,907"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

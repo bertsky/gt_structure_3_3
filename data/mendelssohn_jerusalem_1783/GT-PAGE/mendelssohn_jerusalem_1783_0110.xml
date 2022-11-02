@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:19:31</Created>
+	<LastChange>2019-03-12T14:20:44</LastChange></Metadata>
+	<Page imageFilename="mendelssohn_jerusalem_1783_0110.jpg" imageWidth="1410" imageHeight="2078" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="region_3" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="catch-word">
+	<Coords points="1275,462 1364,462 1364,516 1275,516"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="catch-word">
+	<Coords points="1220,1737 1356,1737 1356,1788 1220,1788"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="984,302 984,248 951,248 951,302"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1379,461 1379,335 533,335 533,461"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="footnote">
+	<Coords points="1358,524 1358,763 1303,763 1303,764 1195,764 1195,765 1086,765 1086,766 978,766 978,767 870,767 870,768 761,768 761,769 653,769 653,770 599,770 599,524"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords points="1358,765 1358,1807 599,1807 599,772 654,772 654,771 762,771 762,770 871,770 871,769 979,769 979,768 1087,768 1087,767 1196,767 1196,766 1304,766 1304,765"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:20:27</Created>
+	<LastChange>2019-03-12T14:10:42</LastChange></Metadata>
+	<Page imageFilename="moser_politische02_1796_0106.jpg" imageWidth="1753" imageHeight="2682" type="content">
+	<PrintSpace>
+	<Coords points="1670,2470 1670,396 476,396 476,2470"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="660,1869 1581,1869 1581,2232 660,2232"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="footnote">
+	<Coords points="594,2232 1227,2232 1227,2289 594,2289"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="743,560 743,523 626,523 626,560"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1410,1880 1410,1830 606,1830 606,1880"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1590,560 1590,692 1520,692 1520,693 1382,693 1382,694 1243,694 1243,695 1105,695 1105,696 966,696 966,697 827,697 827,698 689,698 689,699 620,699 620,560"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1590,694 1590,1830 620,1830 620,701 690,701 690,700 828,700 828,699 967,699 967,698 1106,698 1106,697 1244,697 1244,696 1383,696 1383,695 1521,695 1521,694"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

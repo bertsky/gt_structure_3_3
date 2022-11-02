@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:20:29</Created>
+	<LastChange>2019-03-05T14:48:37</LastChange></Metadata>
+	<Page imageFilename="mueller_festigkeitslehre_1886_0029.jpg" imageWidth="1840" imageHeight="2840" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="153,363 1461,363 1461,1197 153,1197"/></TableRegion>
+	<GraphicRegion id="region_2">
+	<Coords points="261,1407 1359,1407 1359,2187 261,2187"/></GraphicRegion>
+	<TextRegion id="region_3" type="caption">
+	<Coords points="693,2187 897,2187 897,2238 693,2238"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="signature-mark">
+	<Coords points="198,2391 1308,2391 1308,2454 198,2454"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="837,282 837,224 765,224 765,282"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1179,368 1179,310 420,310 420,368"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1468,1393 1468,1213 144,1213 144,1393"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1417,2375 1417,2237 165,2237 165,2375"/>
+	<MathsRegion id="r4">
+	<Coords points="1151,2393 1151,2306 462,2306 462,2393"/></MathsRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

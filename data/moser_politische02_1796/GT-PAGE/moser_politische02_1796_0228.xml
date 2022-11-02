@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:20:27</Created>
+	<LastChange>2019-03-12T14:08:38</LastChange></Metadata>
+	<Page imageFilename="moser_politische02_1796_0228.jpg" imageWidth="1754" imageHeight="2683" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="672,1119 1689,1119 1689,1353 672,1353"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="790,550 790,473 680,473 680,550"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1660,2096 1660,1403 670,1403 670,2096"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="1666,2153 1666,2133 693,2133 693,2153"/></SeparatorRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1673,526 1673,689 1505,689 1505,690 1169,690 1169,691 833,691 833,692 666,692 666,526"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1673,691 1673,1083 666,1083 666,694 834,694 834,693 1170,693 1170,692 1506,692 1506,691"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords points="1434,2181 1434,2229 1306,2229 1306,2230 1051,2230 1051,2231 796,2231 796,2232 669,2232 669,2181"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords points="1434,2231 1434,2307 669,2307 669,2234 797,2234 797,2233 1052,2233 1052,2232 1307,2232 1307,2231"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>
