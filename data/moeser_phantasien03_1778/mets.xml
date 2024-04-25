@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, M: Ac 252:3</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/ac-252-3b/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/ac-252-3b/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
