@@ -3,7 +3,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T09:20:44</Created>
 	<LastChange>2019-03-12T14:02:30</LastChange></Metadata>
-	<Page imageFilename="mueller_statik01_1881_0150.jpg" imageWidth="1888" imageHeight="2864" type="content">
+	<Page imageFilename="jpg/mueller_statik01_1881_0150.jpg" imageWidth="1888" imageHeight="2864" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>
